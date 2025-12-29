@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1766999576.38316 "/Users/salahu/Projects/Personal/job docs/resume.tex" "resume.pdf" "resume" 1766999576.7286 0
-  "/Users/salahu/Projects/Personal/job docs/resume.tex" 1766999576.22446 5687 e69bb56224d4b68679ae5be21f274ad1 ""
+["pdflatex"] 1767000417.49119 "/Users/salahu/Projects/Personal/job docs/resume.tex" "resume.pdf" "resume" 1767000417.82487 0
+  "/Users/salahu/Projects/Personal/job docs/resume.tex" 1767000417.30253 5784 5f4be65a3ed0f13bca853c7f68131b4f ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1741388039 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -72,9 +72,9 @@
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/url/url.sty" 1741388039 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346124 822af4b3533d914509c9d079ab7ecdd9 ""
-  "resume.aux" 1766999576.69769 596 4656af4f3f72d345486aff8eafb3ae20 "pdflatex"
-  "resume.out" 1766999576.69833 405 ffdbdb4b72d3f923147063222996cf3c "pdflatex"
-  "resume.tex" 1766999576.22446 5687 e69bb56224d4b68679ae5be21f274ad1 ""
+  "resume.aux" 1767000417.79413 596 4656af4f3f72d345486aff8eafb3ae20 "pdflatex"
+  "resume.out" 1767000417.79467 405 ffdbdb4b72d3f923147063222996cf3c "pdflatex"
+  "resume.tex" 1767000417.30253 5784 5f4be65a3ed0f13bca853c7f68131b4f ""
   (generated)
   "resume.aux"
   "resume.log"
