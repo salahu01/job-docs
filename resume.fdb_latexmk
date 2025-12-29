@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1767009880.47116 "/Users/salahu/Projects/Personal/job docs/resume.tex" "resume.pdf" "resume" 1767009880.82819 0
-  "/Users/salahu/Projects/Personal/job docs/resume.tex" 1767009880.23735 8438 e8944ecef50a94b79040909c5b1e72c4 ""
+["pdflatex"] 1767009992.71321 "/Users/salahu/Projects/Personal/job docs/resume.tex" "resume.pdf" "resume" 1767009993.05036 0
+  "/Users/salahu/Projects/Personal/job docs/resume.tex" 1767009992.53617 8432 ca0f88516c125a4c1544b18bdda624bf ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1741388039 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -10,11 +10,9 @@
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm" 1741388039 1352 fa28a7e6d323c65ce7d13d5342ff6be2 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1741388039 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1741388039 1528 abec98dbc43e172678c11b3b9031252a ""
-  "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1741388039 1524 4414a8315f39513458b80dfc63bff03a ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1741388039 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1741388039 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1741388039 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
-  "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1741388039 1288 655e228510b4c2a1abe905c368440826 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1741388039 1300 b62933e007d01cfd073f79b963c01526 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1741388039 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1741388039 1124 6c73e740cf17375f03eec0ee63599741 ""
@@ -70,9 +68,9 @@
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/url/url.sty" 1741388039 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346124 822af4b3533d914509c9d079ab7ecdd9 ""
-  "resume.aux" 1767009880.79747 596 4656af4f3f72d345486aff8eafb3ae20 "pdflatex"
-  "resume.out" 1767009880.79776 405 ffdbdb4b72d3f923147063222996cf3c "pdflatex"
-  "resume.tex" 1767009880.23735 8438 e8944ecef50a94b79040909c5b1e72c4 ""
+  "resume.aux" 1767009993.01996 596 4656af4f3f72d345486aff8eafb3ae20 "pdflatex"
+  "resume.out" 1767009993.02048 405 ffdbdb4b72d3f923147063222996cf3c "pdflatex"
+  "resume.tex" 1767009992.53617 8432 ca0f88516c125a4c1544b18bdda624bf ""
   (generated)
   "resume.aux"
   "resume.log"
