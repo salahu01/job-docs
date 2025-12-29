@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1767000417.49119 "/Users/salahu/Projects/Personal/job docs/resume.tex" "resume.pdf" "resume" 1767000417.82487 0
-  "/Users/salahu/Projects/Personal/job docs/resume.tex" 1767000417.30253 5784 5f4be65a3ed0f13bca853c7f68131b4f ""
+["pdflatex"] 1767006952.89381 "/Users/salahu/Projects/Personal/job docs/resume.tex" "resume.pdf" "resume" 1767006953.21748 0
+  "/Users/salahu/Projects/Personal/job docs/resume.tex" 1767006952.39516 5896 9491bdbe4e0f9e970625e6d26adbae4c ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1741388039 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -9,8 +9,6 @@
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm" 1741388039 2124 2601a75482e9426d33db523edf23570a ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm" 1741388039 1352 fa28a7e6d323c65ce7d13d5342ff6be2 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1741388039 4408 25b74d011a4c66b7f212c0cc3c90061b ""
-  "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1741388039 2288 f478fc8fed18759effb59f3dad7f3084 ""
-  "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm" 1741388039 4640 532ca3305aad10cc01d769f3f91f1029 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1741388039 1528 abec98dbc43e172678c11b3b9031252a ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1741388039 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1741388039 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -23,11 +21,9 @@
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1741388039 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1741388039 44729 811d6c62865936705a31c797a1d5dada ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1741388039 46026 6dab18b61c907687b520c72847215a68 ""
-  "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb" 1741388039 45458 a3faba884469519614ca56ba5f6b1de1 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf" 1741388039 1372 788387fea833ef5963f4c5bffe33eb89 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf" 1741388039 1380 0ea3a3370054be6da6acd929ec569f06 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf" 1741388039 3556 8a9a6dcbcd146ef985683f677f4758a6 ""
-  "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf" 1741388039 1384 a9d8adaf491ce34e5fba99dc7bbe5f39 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1741388039 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1741388039 40635 c40361e206be584d448876bba8a64a3b ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/bitset/bitset.sty" 1741388039 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -72,9 +68,9 @@
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/url/url.sty" 1741388039 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346124 822af4b3533d914509c9d079ab7ecdd9 ""
-  "resume.aux" 1767000417.79413 596 4656af4f3f72d345486aff8eafb3ae20 "pdflatex"
-  "resume.out" 1767000417.79467 405 ffdbdb4b72d3f923147063222996cf3c "pdflatex"
-  "resume.tex" 1767000417.30253 5784 5f4be65a3ed0f13bca853c7f68131b4f ""
+  "resume.aux" 1767006953.18865 596 82e381794c5d7fc3b6a71965bd8f9c1f "pdflatex"
+  "resume.out" 1767006953.18919 405 ffdbdb4b72d3f923147063222996cf3c "pdflatex"
+  "resume.tex" 1767006952.39516 5896 9491bdbe4e0f9e970625e6d26adbae4c ""
   (generated)
   "resume.aux"
   "resume.log"

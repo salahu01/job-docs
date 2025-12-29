@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  29 DEC 2025 14:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  29 DEC 2025 16:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -292,18 +292,18 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: FFDBDB4B72D3F923147063222996CF3C;405.
  ) 
 Here is how much of TeX's memory you used:
- 8910 strings out of 473190
- 142068 string characters out of 5704335
- 559267 words of memory out of 5000000
- 32080 multiletter control sequences out of 15000+600000
- 571051 words of font info for 58 fonts, out of 8000000 for 9000
+ 8906 strings out of 473190
+ 142018 string characters out of 5704335
+ 560261 words of memory out of 5000000
+ 32078 multiletter control sequences out of 15000+600000
+ 569367 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,79p,429b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on resume.pdf (2 pages, 59626 bytes).
+</opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on resume.pdf (2 pages, 48442 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 63 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
